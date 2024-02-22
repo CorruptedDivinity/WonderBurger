@@ -1,0 +1,1 @@
+While we ended with all our codes working, we did encounter a few issues regarding push and fixing our conflicts, to help eachother not encounter these issues we couldve anylised eachothers codes to figure out where and what could have gone wrong.
