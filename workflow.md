@@ -1,0 +1,1 @@
+If we had a better workflow we could have communicated to each other about the Ingredients we were adding so we wouldn't have to worry about merging problems as we added the same things.
